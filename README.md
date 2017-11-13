@@ -1,1 +1,1 @@
-This project is testing of github commands.
+Author: Makesh
